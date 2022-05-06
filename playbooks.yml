@@ -1,0 +1,6 @@
+---
+name: install/unstall s/w
+hosts: all
+tasks: 
+ - name: software 
+   
